@@ -1,0 +1,26 @@
+# 项目排除路径
+/dynamic-proxy-cglib/target/
+/dynamic-proxy-jdk/target/
+/factory-method/target/
+/myspring/target/
+/myspring-test/target/
+/review-annotation/target/
+/review-reflect/target/
+/simple-factory/target/
+/spring6-001-revelation/target/
+/spring6-002-first/target/
+/spring6-003-dependency-injection/target/
+/spring6-004-scope/target/
+/spring6-005-bean-instantiation/target/
+/spring6-006-bean-lifecycle/target/
+/spring6-007-circular-dependency/target/
+/spring6-008-ioc-annotation/target/
+/spring6-009-jdbc/target/
+/spring6-010-spring-aspectj-aop-anno/target/
+/spring6-011-spring-aspectj-aop-xml/target/
+/spring6-012-aop-realapp/target/
+/spring6-013-tx-bank/target/
+/spring6-014-tx-bank-xml/target/
+/spring6-015-junit/target/
+/spring6-016-sm/target/
+/static-proxy/target/
